@@ -1,0 +1,39 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+div {
+  border: 1px solid black;
+}
+
+.section3 {
+  padding: 32px 72px;
+
+}
+
+.section3 h1 {
+  text-align: center;
+}
+.section3containerrow1 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32px;
+}
+
+.section3containerrow2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32px;
+}
+
+.middle {
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+
+.s3item img {
+  height: auto;
+  width: 100%;
+}
